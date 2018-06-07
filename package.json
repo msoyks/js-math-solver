@@ -11,8 +11,8 @@
             "name": "Benjamin Soyka",
             "email": "bensoyka@icloud.com",
             "url": "https://github.com/bsoyka"
-    }
-  ],
+        }
+    ],
     "description": "A very basic math expression solver.",
     "homepage": "https://github.com/msoyks/js-math-solver",
     "keywords": [
@@ -24,5 +24,12 @@
         "type": "git",
         "url": "git+https://github.com/msoyks/js-math-solver.git"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "scripts": {
+        "deploy": "np"
+    },
+    "devDependencies": {
+        "np": "^3.0.4"
+    },
+    "readmeFilepath": "README.md"
 }
