@@ -1,0 +1,28 @@
+{
+    "author": {
+        "name": "Matthew Soyka",
+        "url": "https://github.com/msoyks"
+    },
+    "bugs": {
+        "url": "https://github.com/msoyks/js-math-solver/issues"
+    },
+    "contributors": [
+        {
+            "name": "Benjamin Soyka",
+            "email": "bensoyka@icloud.com",
+            "url": "https://github.com/bsoyka"
+    }
+  ],
+    "description": "A very basic math expression solver.",
+    "homepage": "https://github.com/msoyks/js-math-solver",
+    "keywords": [
+    "math"
+  ],
+    "license": "MIT",
+    "name": "msoyks-math-solver",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/msoyks/js-math-solver.git"
+    },
+    "version": "1.0.0"
+}
