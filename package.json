@@ -16,13 +16,13 @@
     "description": "A very basic math expression solver.",
     "homepage": "https://github.com/msoyks/js-math-solver",
     "keywords": [
-    "math"
-  ],
+        "math"
+    ],
     "license": "MIT",
     "name": "msoyks-math-solver",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/msoyks/js-math-solver.git"
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
