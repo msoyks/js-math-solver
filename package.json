@@ -1,0 +1,54 @@
+{
+  "_from": "msoyks-math-solver",
+  "_id": "msoyks-math-solver@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xrWN9mZrYmV9498tIdvBFfNyrslOZHhKzvrXPFLDB2QZTx6+Mkpljzyvvj69Js5Mx/o2iE4Jp0aKJs4ciIbGPQ==",
+  "_location": "/msoyks-math-solver",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "msoyks-math-solver",
+    "name": "msoyks-math-solver",
+    "escapedName": "msoyks-math-solver",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/msoyks-math-solver/-/msoyks-math-solver-1.0.0.tgz",
+  "_shasum": "a54275f616060ce0e1e385bac8bb327d49bbab04",
+  "_spec": "msoyks-math-solver",
+  "_where": "C:\\Users\\Michael\\Desktop",
+  "author": {
+    "name": "Matthew Soyka",
+    "url": "https://github.com/msoyks"
+  },
+  "bugs": {
+    "url": "https://github.com/msoyks/js-math-solver/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Benjamin Soyka",
+      "email": "bensoyka@icloud.com",
+      "url": "https://github.com/bsoyka"
+    }
+  ],
+  "deprecated": false,
+  "description": "A very basic math expression solver.",
+  "homepage": "https://github.com/msoyks/js-math-solver",
+  "keywords": [
+    "math"
+  ],
+  "license": "MIT",
+  "name": "msoyks-math-solver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msoyks/js-math-solver.git"
+  },
+  "version": "1.0.0"
+}
